@@ -6,4 +6,4 @@
 
 ## Установка
 1. Установите расширение [Tampermonkey](https://www.tampermonkey.net/).
-2. Установите скрипт. _(Для автоматической установки можно перейти по [этой ссылке](https://github.com/nikk178/Kinopoisk_free))_
+2. Установите скрипт. _(Для автоматической установки можно перейти по [этой ссылке](https://github.com/nikk178/Kinopoisk_free/blob/main/kinopoisk-watch.user.js))_
