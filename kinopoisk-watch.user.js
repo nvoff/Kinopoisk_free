@@ -9,7 +9,7 @@
 // ==/UserScript==
 
 // Link to the viewer page
-const kinopoiskWatchLink = 'https://nikk178.github.io/Kinopoisk_free';
+const kinopoiskWatchLink = 'https://github.com/nikk178/Kinopoisk_free';
 
 
 // Image of the banner
